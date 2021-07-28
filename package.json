@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Check the remainder of a number",
   "main": "index.js",
+  "homepage": "https://github.com/Ethan-Chew/is-Modulo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethan-Chew/is-Modulo.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
