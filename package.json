@@ -1,0 +1,11 @@
+{
+  "name": "ismodulo",
+  "version": "1.0.0",
+  "description": "Check the remainder of a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
