@@ -21,5 +21,5 @@ console.log(isModulo(4, 3)); //-- 1
 
 ### License
 
-Copyright © 2018, [Jon Schlinkert](https://github.com/jonschlinkert).
+Copyright © 2021, [Ethan Chew](https://github.com/ethanchew).
 Released under the [MIT License](LICENSE).
