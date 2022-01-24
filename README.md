@@ -23,3 +23,5 @@ console.log(isModulo(4, 3)); //-- 1
 
 Copyright © 2021, [Ethan Chew](https://github.com/ethanchew).
 Released under the [MIT License](LICENSE).
+
+###### This is a joke
